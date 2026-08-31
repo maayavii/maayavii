@@ -1,13 +1,22 @@
 # Hi, I'm Amal 👋
 
-Software Developer working with **Django, Python, React/JavaScript**, and **Microsoft Dynamics 365 / Power Platform** (Power Apps, Power Automate, Dataverse).
+**Power Platform Developer** with 1.5 years of experience building on **Dynamics 365 CRM, Model-Driven Apps, Power Pages, and Power Automate**. Also work with **Django, Python, and React** for standalone web development.
 
-- 🔭 Currently building web apps with Django + Python, and doing QA/UAT + configuration work on Dynamics 365 CRM
-- 🌱 Learning: React, Azure AI (Document Intelligence, AI Foundry)
-- 💼 Open to freelance/contract work: Python/Django development, Power Platform automation, Dynamics 365 customization
+- 💼 Currently: Power Platform / Dynamics 365 development — model-driven app customization, Power Pages portals, Power Automate flows, Dataverse
+- 🛠️ Also build with: Django, Python, JavaScript, React
+- 🌱 Learning: Azure AI (Document Intelligence, AI Foundry)
 - 📫 Reach me at amalmanoj6096@gmail.com
 
-## Featured projects
+## Power Platform experience
+
+- Dynamics 365 CRM configuration & customization
+- Model-driven app design
+- Power Pages portal development
+- Power Automate flow building
+- Dataverse data modeling
+- Business workflow validation, UAT, QA
+
+## Featured web dev projects
 
 - **[BLUE-COLLAR-NEXUS](https://github.com/maayavii/BLUE-COLLAR-NEXUS)** — Django job portal connecting job seekers and employers (profiles, resume upload, job search/apply, company ratings)
 - **[VenueBook](https://github.com/maayavii/VenueBook)** — Django venue booking system for events
@@ -16,4 +25,4 @@ Software Developer working with **Django, Python, React/JavaScript**, and **Micr
 
 ## Skills
 
-`Python` `Django` `JavaScript` `React` `C#` `SQL` `Dynamics 365 CRM` `Power Platform` `Power Apps` `Power Automate` `Dataverse` `Azure AI` `Docker` `Git`
+`Dynamics 365 CRM` `Power Platform` `Power Apps` `Power Pages` `Power Automate` `Dataverse` `Python` `Django` `JavaScript` `React` `C#` `SQL` `Azure AI` `Docker` `Git`
