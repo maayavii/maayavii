@@ -5,7 +5,7 @@
 - 💼 Currently: Power Platform / Dynamics 365 development — model-driven app customization, Power Pages portals, Power Automate flows, Dataverse
 - 🛠️ Also build with: Django, Python, JavaScript, React
 - 🌱 Learning: Azure AI (Document Intelligence, AI Foundry)
-- 📫 Reach me at amalmanoj6096@gmail.com
+- 📫 Reach me at amalmanoj396@gmail.com
 
 ## Power Platform experience
 
